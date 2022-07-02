@@ -1,0 +1,129 @@
+.mm-poss{
+    position: absolute;
+    width: 100%;
+    right: 0px;
+    left: 0px;
+}
+.aca-mm, .acami-mm, .acacour-mm{
+    display:none;
+}
+.acam-menu{
+    position: absolute;
+    overflow: hidden;
+    width: 100%;
+    box-shadow: 0px 7px 12px -4px rgba(0, 0, 0, 0.45);
+    
+    background-color: #fff;
+    z-index: 999;
+    margin-top: -7px;
+    padding: 20px 10px;
+}
+.acam-menu-inn{
+}
+.acamm1-com{
+    width: 25%;
+    float: left;
+    box-sizing: border-box;
+    padding: 20px;
+    border-right: 1px solid #eaeaea;
+}
+.acamm1-com h4{
+   border-bottom: 1px solid #eaeaea;
+   padding-bottom:10px;
+   margin-bottom:10px;
+   text-transform:uppercase;
+   font-size:14px;
+}
+.acamm1-com ul{
+}
+.acamm1-com ul li{
+    display: block;
+    width: 100%;
+    position: relative;
+    padding-left: 15px;		
+}
+.acamm1-com ul li a{
+    font-size: 14px;
+    color: #203245;
+    line-height: 31px;
+    padding: 5px;
+   text-transform: capitalize; 
+}
+.acamm1-com ul li a:hover{
+}
+.acamm1-com ul li a:after {
+    bottom: 0px;
+}
+.acamm1-cour-com{
+    width: 20%;
+}
+.acaed-dr-men-mar-top{
+   padding-top: 30px;
+   display: inline-block;
+}
+.acamm1-s1{
+}
+.acamm1-s1 img{
+    width: 100%;
+}
+.acamm1-s2{
+}
+.acamm1-s2 p{
+    font-size: 12px;
+    color: #203245;
+}
+.acamm1-s2 a{
+}
+.acamm1-s3{
+}
+.acamm1-s3 ul{
+}
+.acamm1-s4{
+    acaborder-right: 0px solid #eaeaea;
+}
+.mm-arr:after {
+}
+.acam-menu-inn > .mm1-s2 > .mm-r-m-btn{
+    background: #002147;
+    padding: 4px 10px;
+    color: #fff;
+    font-size: 11px;
+    border-radius: 3px;
+    height: 30px;
+    line-height: 24px;
+}
+.acamm1-com > .ed-course-in > a{
+    padding:0px;
+}
+.acamm2-com{
+}
+.acamm2-com p{
+    font-size: 12px;
+    color: #203245;
+}
+.acamm2-com > .ed-course-in{
+    margin-bottom:15px;
+}
+.acam-menu-inn > .mm2-com > a{
+    background: #002147;
+    padding: 4px 10px;
+    color: #fff;
+    font-size: 11px;
+    border-radius: 3px;
+    height: 30px;
+    line-height: 24px;
+}
+.acam-menu-inn ul li:before {
+content: "\f105";
+font-family: FontAwesome;
+font-style: normal;
+font-weight: normal;
+text-decoration: inherit;
+/*--adjust as necessary--*/
+color: #000;
+font-size: 16px;
+padding-right: 0.5em;
+position: absolute;
+top: 5px;
+left: 0;
+}
